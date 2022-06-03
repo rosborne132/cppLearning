@@ -29,8 +29,10 @@
 # Executables
 *.exe
 *.out
+out
 *.app
 
 cmake-build-debug
 
 .idea
+.vs
